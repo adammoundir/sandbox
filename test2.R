@@ -1,6 +1,3 @@
-test2
-
-Test3
 library(tidyverse)
 library(rvest)
 library(httr)
